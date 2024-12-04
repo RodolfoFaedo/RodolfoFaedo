@@ -1,6 +1,6 @@
 <div align="center">
   
-<img src="<iframe src="https://giphy.com/embed/L8K62iTDkzGX6" width="480" height="307" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/web-development-L8K62iTDkzGX6">via GIPHY</a></p>" align="center" style="width: 100%" />
+<img src=" <iframe src="https://giphy.com/embed/L8K62iTDkzGX6" width="480" height="307" style="" frameBorder="0" class="giphy-embed" allowFullScreen> align="center" style="width: 100%" />
 </div>  
   
 
