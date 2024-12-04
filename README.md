@@ -1,6 +1,6 @@
 <div align="center">
   
-<img src="https://giphy.com/embed/L8K62iTDkzGX6" width="480" height="307" style="" frameBorder="0" class="giphy-embed" allowFullScreen/>
+<img src="https://giphy.com/embed/L8K62iTDkzGX6" width="480" height="307" />
 </div>  
   
 
